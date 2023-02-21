@@ -1,0 +1,186 @@
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\App.g.cs
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.baml
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.exe
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+H:\ESAD_CS_R51\M_02_C#\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\App.g.cs
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.baml
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.g.cs
+D:\CSharp\Sir Classes\Class_033\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.baml
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.g.cs
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\App.g.cs
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.baml
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.baml
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.exe
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.dll
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.dll
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.pdb
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.xml
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.pdb
+E:\Md. Mahbur Rahman 1269240\CSharp\Class_37\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.xml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.dll
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.dll
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.pdb
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.xml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.pdb
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.xml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.g.cs
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\App.g.cs
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.baml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.baml
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\CSharp\C# Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.dll
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.dll
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.pdb
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.xml
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.pdb
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.xml
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.g.cs
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\App.g.cs
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.baml
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.baml
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.exe
+E:\CSharp\C# Project\Project\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.exe
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.dll
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.dll
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.pdb
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.xml
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.pdb
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\bin\Debug\Prism.Wpf.xml
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.SuggestedBindingRedirects.cache
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.g.cs
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\App.g.cs
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\json.baml
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\MainWindow.baml
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.exe
+G:\Mahbur Projects\WPF\ESAD_R51_StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.dll
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.dll
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Prism.dll
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Prism.Wpf.dll
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Microsoft.Xaml.Behaviors.xml
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Newtonsoft.Json.xml
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Prism.pdb
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Prism.xml
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Prism.Wpf.pdb
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\bin\Debug\Prism.Wpf.xml
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.SuggestedBindingRedirects.cache
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\json.g.cs
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\MainWindow.g.cs
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\App.g.cs
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.cache
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp_MarkupCompile.lref
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\json.baml
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\MainWindow.baml
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.g.resources
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+G:\Mahbur Projects\WPF\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
